@@ -1,11 +1,12 @@
 ## Put comments here that give an overall description of what your
 ## functions do:
-## The two functions below interact with each other: 'makeCacheMatrix' takes a
-## square invertible matrix as input/argument and ultimatly creates a list object that can store and redefine both the
+## Hello Spartans!  so here we go:
+## The two functions below interact with each other: 'makeCacheMatrix()' takes a
+## square invertible matrix as input/argument and ultimatly creates a list object that
 ## is capable of storing (get) or redefining (set) the contents of the such square
-## invertible matrix. Similarly, 'makeCacheMatrix' also stores and retrieves the
+## invertible matrix. Similarly, 'makeCacheMatrix()' also stores and retrieves the
 ## inverse matrix of the original one, provided it has been calculated by the function
-## 'cacheSolve'
+## 'cacheSolve()'
 
 ## Write a short comment describing this function
 
